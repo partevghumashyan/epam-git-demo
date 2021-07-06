@@ -1,2 +1,2 @@
-# epam-git-demo
-a demo repo for epam school
+# EPAM git demo
+a demo repo for epam javist`s school
